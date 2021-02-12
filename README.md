@@ -1,6 +1,6 @@
 ﻿# Memories App
  
-![Memories](https://ibb.co/4VdNg01)
+![Memories](https://i.postimg.cc/zvj8R3jT/asdads.png)
 
 ## Introducción
 
